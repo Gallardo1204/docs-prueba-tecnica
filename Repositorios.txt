@@ -1,0 +1,6 @@
+Repositorio Backend:
+https://github.com/Gallardo1204/logistica_transporte_backend.git
+
+
+Repositorio Frontend:
+https://github.com/Gallardo1204/logistica_transporte_frontend.git
